@@ -1,1 +1,5 @@
-.next
+# Diretórios gerados automaticamente pelo Next.js
+.next/
+
+# Diretório de dependências do Node.js
+node_modules/
