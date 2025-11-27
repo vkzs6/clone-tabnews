@@ -1,0 +1,5 @@
+root = true # Pasta de referência, o programa so vai rodar quando encontrar a pasta .editorconfig que possuir o root = true
+
+[*] # Utiliza a regra definida para todos os arquivos, poderiamos ter utilizado [.js] aplicando apenas para arquivos .js
+indent_style = space #Definido dessa forma para que sempre que ocorra uma indentação utilize o espaço como regra
+indent_size = 2 # Uma convenção é que arquivos .js utilizam 2 espaços com o TAB, por isso definido dessa maneira.
